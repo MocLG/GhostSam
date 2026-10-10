@@ -52,7 +52,7 @@ series / codename / model / build, and unknown combinations fail closed
 | ------- | --------- | ------------ | ------------------------------------------------------------- |
 | s22     | 4         | 66           | SM-S9010 / S9060 / S9080 ... (Snapdragon, Exynos 2200)        |
 | s26     | 4         | 153          | SM-S9420 / S9470 / S9480 ... (Snapdragon, Exynos), One UI 8.5 |
-| s26-ui9 | 2         | 6            | One UI 9 geometry, executed by the io_submit chain            |
+| s26-ui9 | 2         | 7            | One UI 9 geometry, executed by the io_submit chain            |
 | zf8     | 6         | 73           | SM-F9710 / F9760 ... (Z Fold8)                                |
 
 A custom baseline for unlisted firmware can be supplied at runtime through

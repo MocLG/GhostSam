@@ -45,7 +45,7 @@ series / codename / model / build 四个维度匹配，未收录的组合一律 
 | ------- | ------ | ------------- | -------------------------------------------------------- |
 | s22     | 4      | 66            | SM-S9010 / S9060 / S9080 ...（骁龙、Exynos 2200）        |
 | s26     | 4      | 153           | SM-S9420 / S9470 / S9480 ...（骁龙、Exynos），One UI 8.5 |
-| s26-ui9 | 2      | 6             | One UI 9 布局，由 io_submit 链执行                       |
+| s26-ui9 | 2      | 7             | One UI 9 布局，由 io_submit 链执行                       |
 | zf8     | 6      | 73            | SM-F9710 / F9760 ...（Z Fold8）                          |
 
 未收录固件可在运行期通过 `/data/local/tmp/ghostsam-lines.conf` 提供自定义
